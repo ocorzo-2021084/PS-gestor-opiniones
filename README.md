@@ -1,14 +1,7 @@
 # Backend MERN - Calendar - Gestor de opiniones
 
-ESTE PROYECTO TAL Y COMO ESTA NO FUNCIONA, SE REQUIRE QUE LO 
-DESCARGUE DE FORMA LOCAL DARLE SOLUCIÓN EN RELACIÓN A LO VISTO
-DURANTE EL BIMESTRE.
-
-## Objetivos: Que no lanze errores de compilación y que funcionen las peticiones
-
-Al darle solución y testearlo presentar al profesor encargado.
-
-
+Este proyecto no funcionaba en un principio pero fue arreglado y testeado en clase.
+💻💻💻
 
 # Información General del proyecto
 
